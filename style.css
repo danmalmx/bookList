@@ -1,17 +1,18 @@
 .container {
-    max-width: 800px;
+	max-width: 800px;
 }
 
-.succes, .error {
-    color: white;
-    padding: 5px;
-    margin: 5px 0 15px 0;
+.success,
+.error {
+	color: white;
+	padding: 5px;
+	margin: 5px 0 15px 0;
 }
 
-.succes {
-    background: green;
+.success {
+	background: green;
 }
 
 .error {
-    background: red;
+	background: red;
 }
