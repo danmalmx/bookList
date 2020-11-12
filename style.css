@@ -16,3 +16,7 @@
 .error {
 	background: red;
 }
+
+.book-list {
+	text-decoration: none;
+}
