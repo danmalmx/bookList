@@ -17,6 +17,6 @@
 	background: red;
 }
 
-.book-list {
+.book-list > td > {
 	text-decoration: none;
 }
